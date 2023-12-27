@@ -1,5 +1,3 @@
-# etl_covid
-
 ### Установка
 
 - ```git clone https://github.com/nastyaqw/etl_covid```
